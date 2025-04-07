@@ -1,4 +1,5 @@
 <?php
+require_once 'chemin/vers/databases.php';
 $host = 'localhost';
 $dbname = 'gestion_etudiants';
 $username = 'root';
